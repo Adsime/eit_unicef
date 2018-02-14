@@ -99,3 +99,7 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# self created files
+data/
+.idea/
